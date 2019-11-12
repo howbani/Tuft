@@ -1,0 +1,613 @@
+﻿'TreeBased.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'E:\Trial Sep 23 after\Sep 29\TBP\bin\Debug\TreeBased.exe'. Symbols loaded.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Step into: Stepping over non-user code 'TreeBased.App..ctor'
+Step into: Stepping over non-user code 'TreeBased.App.InitializeComponent'
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'E:\Trial Sep 23 after\Sep 29\TBP\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXml\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Users\Busaileh\AppData\Local\Temp\VisualStudio.XamlDiagnostics.8600\Microsoft.VisualStudio.DesignTools.WpfTap.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'TreeBased.exe' (CLR v4.0.30319: TreeBased.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemData\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemData.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+AVG 3.54545454545455
+The count for clusters 9
+AVG 4.11111111111111
+Failed QReq PID: 139 Reason: Waiting times > 7
+Failed Data PID: 303 Reason: Waiting times > 7
+Failed Data PID: 349 Reason: Waiting times > 7
+Failed Data PID: 403 Reason: Waiting times > 7
+The thread 0x40cc has exited with code 0 (0x0).
+Failed Data PID: 653 Reason: Waiting times > 7
+The thread 0x2ffc has exited with code 0 (0x0).
+Failed QReq PID: 816 Reason: TTL>Hops
+Failed QReq PID: 750 Reason: TTL>Hops
+Failed QReq PID: 810 Reason: TTL>Hops
+The thread 0x29ec has exited with code 0 (0x0).
+Failed Data PID: 877 Reason: Waiting times > 7
+Failed QReq PID: 969 Reason: Waiting times > 7
+Failed Data PID: 913 Reason: Waiting times > 7
+Failed Data PID: 914 Reason: Waiting times > 7
+The thread 0x5de8 has exited with code 0 (0x0).
+Failed Data PID: 989 Reason: Waiting times > 7
+Failed Data PID: 955 Reason: Waiting times > 7
+The thread 0x3700 has exited with code 0 (0x0).
+Failed Data PID: 1069 Reason: Waiting times > 7
+The thread 0x54ac has exited with code 0 (0x0).
+Failed Data PID: 1217 Reason: Waiting times > 7
+Failed QReq PID: 1257 Reason: Waiting times > 7
+The thread 0x44f0 has exited with code 0 (0x0).
+Failed Data PID: 1315 Reason: Waiting times > 7
+Failed Data PID: 1349 Reason: Waiting times > 7
+Failed Data PID: 1334 Reason: Waiting times > 7
+The thread 0x1254 has exited with code 0 (0x0).
+Failed QResp PID: 1437 Reason: Waiting times > 7
+The thread 0x4548 has exited with code 0 (0x0).
+Failed Data PID: 1461 Reason: Waiting times > 7
+Failed Data PID: 1503 Reason: Waiting times > 7
+Failed FM PID: 1500 Reason: Waiting times > 7
+The thread 0x5624 has exited with code 0 (0x0).
+Failed Data PID: 1515 Reason: Waiting times > 7
+Failed Data PID: 1564 Reason: Waiting times > 7
+The thread 0x44c0 has exited with code 0 (0x0).
+Failed Data PID: 1562 Reason: Waiting times > 7
+The thread 0x28ec has exited with code 0 (0x0).
+The thread 0x477c has exited with code 0 (0x0).
+Failed QReq PID: 1950 Reason: TTL>Hops
+Failed Data PID: 1916 Reason: Waiting times > 7
+Failed Data PID: 1860 Reason: Waiting times > 7
+The thread 0x5670 has exited with code 0 (0x0).
+The thread 0x5ffc has exited with code 0 (0x0).
+Failed Data PID: 2074 Reason: Waiting times > 7
+Failed Data PID: 2077 Reason: Waiting times > 7
+The thread 0x4ec0 has exited with code 0 (0x0).
+Failed Data PID: 2103 Reason: Waiting times > 7
+Failed Data PID: 2199 Reason: Waiting times > 7
+The thread 0x2f0c has exited with code 0 (0x0).
+Failed Data PID: 2289 Reason: Waiting times > 7
+The thread 0x300c has exited with code 0 (0x0).
+Failed QReq PID: 2447 Reason: Waiting times > 7
+The thread 0x30d0 has exited with code 0 (0x0).
+Failed QReq PID: 2498 Reason: TTL>Hops
+Failed QReq PID: 2493 Reason: TTL>Hops
+Failed QReq PID: 2514 Reason: TTL>Hops
+Failed FSA PID: 2532 Reason: Waiting times > 7
+Failed QReq PID: 2543 Reason: TTL>Hops
+The thread 0x5b3c has exited with code 0 (0x0).
+Failed QReq PID: 2538 Reason: TTL>Hops
+Failed Data PID: 2575 Reason: Waiting times > 7
+The thread 0x4cc0 has exited with code 0 (0x0).
+Failed Data PID: 2658 Reason: Waiting times > 7
+Failed QReq PID: 2641 Reason: Waiting times > 7
+Failed QResp PID: 2693 Reason: Waiting times > 7
+Failed QReq PID: 2687 Reason: Waiting times > 7
+Failed Data PID: 2692 Reason: Waiting times > 7
+The thread 0x4818 has exited with code 0 (0x0).
+Failed Data PID: 2726 Reason: Waiting times > 7
+Failed QResp PID: 2774 Reason: Waiting times > 7
+The thread 0x3354 has exited with code 0 (0x0).
+Failed Data PID: 2821 Reason: Waiting times > 7
+Failed QReq PID: 2788 Reason: Waiting times > 7
+Failed Data PID: 2832 Reason: Waiting times > 7
+Failed Data PID: 2878 Reason: Waiting times > 7
+The thread 0x228c has exited with code 0 (0x0).
+Failed Data PID: 2895 Reason: Waiting times > 7
+Failed Data PID: 2873 Reason: Waiting times > 7
+Failed QReq PID: 2936 Reason: Waiting times > 7
+Failed QReq PID: 2918 Reason: Waiting times > 7
+Failed QReq PID: 2938 Reason: Waiting times > 7
+The thread 0x3624 has exited with code 0 (0x0).
+Failed QReq PID: 3063 Reason: Waiting times > 7
+Failed Data PID: 2930 Reason: Waiting times > 7
+Failed QReq PID: 2990 Reason: Waiting times > 7
+The thread 0x4a48 has exited with code 0 (0x0).
+Failed QReq PID: 3148 Reason: Waiting times > 7
+The thread 0x47f8 has exited with code 0 (0x0).
+Failed Data PID: 3246 Reason: Waiting times > 7
+Failed Data PID: 3107 Reason: Waiting times > 7
+The thread 0x3138 has exited with code 0 (0x0).
+Failed QReq PID: 3356 Reason: Waiting times > 7
+Failed Data PID: 3101 Reason: Waiting times > 7
+Failed Data PID: 3340 Reason: Waiting times > 7
+The thread 0x1814 has exited with code 0 (0x0).
+Failed Data PID: 2868 Reason: Waiting times > 7
+Failed Data PID: 3342 Reason: Waiting times > 7
+Failed QReq PID: 3369 Reason: TTL>Hops
+Failed Data PID: 2950 Reason: Waiting times > 7
+Failed Data PID: 3042 Reason: Waiting times > 7
+The thread 0x2e10 has exited with code 0 (0x0).
+Failed Data PID: 3390 Reason: Waiting times > 7
+Failed QReq PID: 3372 Reason: TTL>Hops
+Failed QReq PID: 3460 Reason: TTL>Hops
+Failed QReq PID: 3455 Reason: Waiting times > 7
+Failed Data PID: 3171 Reason: Waiting times > 7
+Failed QReq PID: 3398 Reason: TTL>Hops
+Failed Data PID: 3409 Reason: Waiting times > 7
+Failed QReq PID: 3543 Reason: TTL>Hops
+Failed QReq PID: 3346 Reason: TTL>Hops
+The thread 0x42f8 has exited with code 0 (0x0).
+Failed Data PID: 3040 Reason: Waiting times > 7
+Failed QReq PID: 3544 Reason: Waiting times > 7
+Failed Data PID: 3610 Reason: Waiting times > 7
+The thread 0x5acc has exited with code 0 (0x0).
+Failed Data PID: 3638 Reason: Waiting times > 7
+Failed QReq PID: 3630 Reason: Waiting times > 7
+Failed Data PID: 3480 Reason: Waiting times > 7
+Failed QReq PID: 3680 Reason: Waiting times > 7
+Failed QReq PID: 3540 Reason: Waiting times > 7
+Failed Data PID: 2954 Reason: Waiting times > 7
+The thread 0x4da4 has exited with code 0 (0x0).
+Failed Data PID: 3122 Reason: Waiting times > 7
+Failed Data PID: 3344 Reason: Waiting times > 7
+Failed QReq PID: 3747 Reason: Waiting times > 7
+Failed Data PID: 3470 Reason: Waiting times > 7
+Failed QResp PID: 3808 Reason: Waiting times > 7
+Failed QReq PID: 3807 Reason: Waiting times > 7
+Failed Data PID: 3228 Reason: Waiting times > 7
+Failed QReq PID: 3567 Reason: Waiting times > 7
+Failed Data PID: 3510 Reason: Waiting times > 7
+The thread 0x46e4 has exited with code 0 (0x0).
+Failed Data PID: 3805 Reason: Waiting times > 7
+The thread 0x4a98 has exited with code 0 (0x0).
+Failed QReq PID: 3791 Reason: Waiting times > 7
+Failed QReq PID: 3554 Reason: TTL>Hops
+Failed QReq PID: 3857 Reason: Waiting times > 7
+Failed Data PID: 3954 Reason: Waiting times > 7
+Failed QReq PID: 3810 Reason: TTL>Hops
+Failed QReq PID: 3863 Reason: TTL>Hops
+The thread 0x4c88 has exited with code 0 (0x0).
+Failed Data PID: 3947 Reason: Waiting times > 7
+Failed Data PID: 3966 Reason: Waiting times > 7
+Failed QReq PID: 3745 Reason: TTL>Hops
+Failed Data PID: 3970 Reason: Waiting times > 7
+The thread 0x2638 has exited with code 0 (0x0).
+Failed QReq PID: 4054 Reason: Waiting times > 7
+Failed QReq PID: 4073 Reason: TTL>Hops
+Failed QReq PID: 4179 Reason: TTL>Hops
+Failed Data PID: 4137 Reason: Waiting times > 7
+The thread 0x5bd0 has exited with code 0 (0x0).
+Failed Data PID: 4095 Reason: Waiting times > 7
+Failed Data PID: 4000 Reason: Waiting times > 7
+Failed QReq PID: 4127 Reason: Waiting times > 7
+Failed Data PID: 4305 Reason: Waiting times > 7
+The thread 0xce4 has exited with code 0 (0x0).
+Failed Data PID: 4336 Reason: Waiting times > 7
+The thread 0x1f0c has exited with code 0 (0x0).
+Failed QReq PID: 4443 Reason: TTL>Hops
+Failed QReq PID: 4457 Reason: Waiting times > 7
+Failed Data PID: 4496 Reason: Waiting times > 7
+The thread 0x444c has exited with code 0 (0x0).
+Failed Data PID: 4550 Reason: Waiting times > 7
+Failed QResp PID: 4584 Reason: Waiting times > 7
+The thread 0x57e8 has exited with code 0 (0x0).
+The thread 0x1048 has exited with code 0 (0x0).
+Failed QResp PID: 4762 Reason: Waiting times > 7
+Failed QReq PID: 4729 Reason: Waiting times > 7
+Failed QReq PID: 4760 Reason: Waiting times > 7
+Failed QReq PID: 4824 Reason: TTL>Hops
+The thread 0x54d4 has exited with code 0 (0x0).
+Failed Data PID: 4772 Reason: Waiting times > 7
+Failed Data PID: 4826 Reason: Waiting times > 7
+The thread 0x534c has exited with code 0 (0x0).
+Failed Data PID: 4914 Reason: Waiting times > 7
+Failed FM PID: 4983 Reason: Waiting times > 7
+The thread 0x4a84 has exited with code 0 (0x0).
+Failed QReq PID: 5016 Reason: Waiting times > 7
+Failed Data PID: 4960 Reason: Waiting times > 7
+Failed QReq PID: 5023 Reason: Waiting times > 7
+The thread 0x4f38 has exited with code 0 (0x0).
+Failed Data PID: 5008 Reason: Waiting times > 7
+Failed QReq PID: 5158 Reason: Waiting times > 7
+Failed Data PID: 5089 Reason: Waiting times > 7
+Failed Data PID: 5053 Reason: Waiting times > 7
+Failed QReq PID: 5198 Reason: Waiting times > 7
+The thread 0x50e0 has exited with code 0 (0x0).
+The thread 0x4244 has exited with code 0 (0x0).
+Failed QReq PID: 5303 Reason: TTL>Hops
+Failed QReq PID: 5181 Reason: Waiting times > 7
+Failed QReq PID: 5351 Reason: TTL>Hops
+Failed QReq PID: 5394 Reason: TTL>Hops
+The thread 0x1a2c has exited with code 0 (0x0).
+Failed QResp PID: 5339 Reason: Waiting times > 7
+Failed QReq PID: 5442 Reason: TTL>Hops
+Failed QReq PID: 5431 Reason: Waiting times > 7
+Failed QResp PID: 5485 Reason: Waiting times > 7
+The thread 0x447c has exited with code 0 (0x0).
+Failed QReq PID: 5415 Reason: Waiting times > 7
+Failed QReq PID: 5492 Reason: Waiting times > 7
+Failed Data PID: 5522 Reason: Waiting times > 7
+Failed Data PID: 5472 Reason: Waiting times > 7
+The thread 0x5320 has exited with code 0 (0x0).
+Failed Data PID: 5536 Reason: Waiting times > 7
+Failed Data PID: 5449 Reason: Waiting times > 7
+Failed Data PID: 5304 Reason: Waiting times > 7
+Failed QReq PID: 5547 Reason: Waiting times > 7
+Failed Data PID: 5414 Reason: Waiting times > 7
+Failed Data PID: 5490 Reason: Waiting times > 7
+Failed Data PID: 5543 Reason: Waiting times > 7
+Failed Data PID: 5562 Reason: Waiting times > 7
+The thread 0x3aa8 has exited with code 0 (0x0).
+Failed Data PID: 5559 Reason: Waiting times > 7
+Failed Data PID: 5579 Reason: Waiting times > 7
+Failed QReq PID: 5511 Reason: TTL>Hops
+Failed QReq PID: 5581 Reason: Waiting times > 7
+Failed Data PID: 5386 Reason: Waiting times > 7
+Failed QReq PID: 5660 Reason: Waiting times > 7
+Failed Data PID: 5700 Reason: Waiting times > 7
+Failed QReq PID: 5744 Reason: Waiting times > 7
+The thread 0x30fc has exited with code 0 (0x0).
+Failed Data PID: 5758 Reason: Waiting times > 7
+The thread 0x556c has exited with code 0 (0x0).
+Failed QReq PID: 5782 Reason: Waiting times > 7
+Failed Data PID: 5802 Reason: Waiting times > 7
+Failed Data PID: 5835 Reason: Waiting times > 7
+Failed QReq PID: 5792 Reason: TTL>Hops
+Failed QReq PID: 5796 Reason: TTL>Hops
+The thread 0x5318 has exited with code 0 (0x0).
+The thread 0x5900 has exited with code 0 (0x0).
+Failed Data PID: 5410 Reason: Waiting times > 7
+Failed Data PID: 5763 Reason: Waiting times > 7
+Failed Data PID: 6068 Reason: Waiting times > 7
+Failed Data PID: 5509 Reason: Waiting times > 7
+Failed Data PID: 5870 Reason: Waiting times > 7
+Failed Data PID: 5787 Reason: Waiting times > 7
+Failed Data PID: 5756 Reason: Waiting times > 7
+Failed QReq PID: 5750 Reason: TTL>Hops
+Failed QReq PID: 5822 Reason: Waiting times > 7
+Failed Data PID: 5856 Reason: Waiting times > 7
+Failed QReq PID: 5828 Reason: Waiting times > 7
+Failed QReq PID: 6099 Reason: TTL>Hops
+Failed QReq PID: 5964 Reason: Waiting times > 7
+Failed QReq PID: 6155 Reason: Waiting times > 7
+The thread 0x1a68 has exited with code 0 (0x0).
+Failed Data PID: 5663 Reason: Waiting times > 7
+Failed Data PID: 6062 Reason: Waiting times > 7
+Failed Data PID: 6073 Reason: Waiting times > 7
+The thread 0x370 has exited with code 0 (0x0).
+Failed Data PID: 6260 Reason: Waiting times > 7
+Failed Data PID: 5810 Reason: Waiting times > 7
+The thread 0x534c has exited with code 0 (0x0).
+Failed QReq PID: 6331 Reason: Waiting times > 7
+Failed Data PID: 6246 Reason: Waiting times > 7
+Failed Data PID: 5816 Reason: Waiting times > 7
+Failed Data PID: 6219 Reason: Waiting times > 7
+Failed Data PID: 6040 Reason: Waiting times > 7
+Failed Data PID: 6060 Reason: Waiting times > 7
+Failed Data PID: 6308 Reason: Waiting times > 7
+The thread 0x137c has exited with code 0 (0x0).
+Failed Data PID: 6310 Reason: Waiting times > 7
+Failed QReq PID: 6396 Reason: TTL>Hops
+Failed Data PID: 6052 Reason: Waiting times > 7
+Failed Data PID: 5838 Reason: Waiting times > 7
+Failed Data PID: 6359 Reason: Waiting times > 7
+Failed Data PID: 6101 Reason: Waiting times > 7
+Failed Data PID: 6356 Reason: Waiting times > 7
+Failed Data PID: 6326 Reason: Waiting times > 7
+Failed QReq PID: 6502 Reason: Waiting times > 7
+Failed Data PID: 6438 Reason: Waiting times > 7
+Failed Data PID: 6377 Reason: Waiting times > 7
+The thread 0x4944 has exited with code 0 (0x0).
+Failed QReq PID: 6547 Reason: TTL>Hops
+Failed QReq PID: 6562 Reason: Waiting times > 7
+Failed QReq PID: 6565 Reason: TTL>Hops
+Failed Data PID: 5939 Reason: Waiting times > 7
+Failed Data PID: 5881 Reason: Waiting times > 7
+Failed Data PID: 6231 Reason: Waiting times > 7
+Failed Data PID: 5902 Reason: Waiting times > 7
+The thread 0x564c has exited with code 0 (0x0).
+Failed QReq PID: 6551 Reason: Waiting times > 7
+Failed QReq PID: 6586 Reason: Waiting times > 7
+Failed Data PID: 5942 Reason: Waiting times > 7
+Failed Data PID: 6349 Reason: Waiting times > 7
+Failed Data PID: 6578 Reason: Waiting times > 7
+Failed QReq PID: 6634 Reason: Waiting times > 7
+The thread 0x58d8 has exited with code 0 (0x0).
+Failed QReq PID: 6664 Reason: Waiting times > 7
+The thread 0x4b88 has exited with code 0 (0x0).
+Failed QReq PID: 6709 Reason: Waiting times > 7
+Failed QResp PID: 6849 Reason: Waiting times > 7
+Failed QReq PID: 6729 Reason: Waiting times > 7
+The thread 0x5468 has exited with code 0 (0x0).
+Failed QResp PID: 6861 Reason: Waiting times > 7
+Failed QReq PID: 6777 Reason: Waiting times > 7
+Failed QReq PID: 6812 Reason: Waiting times > 7
+Failed QReq PID: 6795 Reason: TTL>Hops
+Failed QReq PID: 6836 Reason: TTL>Hops
+Failed QReq PID: 6735 Reason: TTL>Hops
+Failed QReq PID: 6785 Reason: TTL>Hops
+Failed QReq PID: 6911 Reason: Waiting times > 7
+Failed QReq PID: 6857 Reason: TTL>Hops
+Failed Data PID: 6826 Reason: Waiting times > 7
+Failed Data PID: 6966 Reason: Waiting times > 7
+Failed QReq PID: 7005 Reason: TTL>Hops
+The thread 0x1160 has exited with code 0 (0x0).
+Failed QReq PID: 7027 Reason: TTL>Hops
+Failed Data PID: 7045 Reason: Waiting times > 7
+The thread 0x59d4 has exited with code 0 (0x0).
+The thread 0x1a0c has exited with code 0 (0x0).
+Failed QReq PID: 7246 Reason: Waiting times > 7
+The thread 0x45b4 has exited with code 0 (0x0).
+
+Exception thrown: 'System.NullReferenceException' in TreeBased.exe
+Distance between sensors returned an exception:
+Object reference not set to an instance of an object.
+Failed QReq PID: 7365 Reason: Empty Agent
+Failed Data PID: 7312 Reason: Waiting times > 7
+Failed Data PID: 7399 Reason: Waiting times > 7
+Failed Data PID: 7377 Reason: Waiting times > 7
+The thread 0x5f30 has exited with code 0 (0x0).
+Failed QReq PID: 7445 Reason: Waiting times > 7
+Failed Data PID: 7484 Reason: Waiting times > 7
+Failed QReq PID: 7443 Reason: Waiting times > 7
+The thread 0x471c has exited with code 0 (0x0).
+Failed QReq PID: 7495 Reason: Waiting times > 7
+Failed QReq PID: 7433 Reason: TTL>Hops
+Failed Data PID: 7542 Reason: Waiting times > 7
+Failed FSA PID: 7566 Reason: Waiting times > 7
+Failed QReq PID: 7487 Reason: TTL>Hops
+The thread 0x5594 has exited with code 0 (0x0).
+Failed QReq PID: 7536 Reason: TTL>Hops
+Failed QReq PID: 7597 Reason: Waiting times > 7
+Failed QReq PID: 7692 Reason: TTL>Hops
+The thread 0x38d4 has exited with code 0 (0x0).
+Failed Data PID: 7671 Reason: Waiting times > 7
+The thread 0x568c has exited with code 0 (0x0).
+Failed QReq PID: 7771 Reason: Waiting times > 7
+Failed Data PID: 7820 Reason: Waiting times > 7
+The thread 0x2944 has exited with code 0 (0x0).
+Failed QReq PID: 7870 Reason: Waiting times > 7
+Failed QReq PID: 7898 Reason: Waiting times > 7
+The thread 0x32ac has exited with code 0 (0x0).
+Failed QReq PID: 8004 Reason: Waiting times > 7
+The thread 0x53c4 has exited with code 0 (0x0).
+Failed Data PID: 8054 Reason: Waiting times > 7
+The thread 0x4020 has exited with code 0 (0x0).
+Failed QReq PID: 8051 Reason: Waiting times > 7
+Failed QReq PID: 8118 Reason: Waiting times > 7
+Failed Data PID: 8205 Reason: Waiting times > 7
+The thread 0x47f0 has exited with code 0 (0x0).
+Failed Data PID: 8261 Reason: Waiting times > 7
+Failed QReq PID: 8346 Reason: Waiting times > 7
+The thread 0x8d4 has exited with code 0 (0x0).
+Failed Data PID: 8336 Reason: Waiting times > 7
+The thread 0x4808 has exited with code 0 (0x0).
+Failed FSA PID: 8511 Reason: Waiting times > 7
+Failed Data PID: 8376 Reason: Waiting times > 7
+The thread 0x42c0 has exited with code 0 (0x0).
+Failed QReq PID: 8419 Reason: TTL>Hops
+Failed QResp PID: 8550 Reason: Waiting times > 7
+Failed Data PID: 8439 Reason: Waiting times > 7
+The thread 0x38e4 has exited with code 0 (0x0).
+Failed QReq PID: 8449 Reason: TTL>Hops
+The thread 0x48b4 has exited with code 0 (0x0).
+Failed QReq PID: 8626 Reason: Waiting times > 7
+Failed Data PID: 8665 Reason: Waiting times > 7
+Failed Data PID: 8658 Reason: Waiting times > 7
+Failed Data PID: 8377 Reason: Waiting times > 7
+Failed QReq PID: 8573 Reason: TTL>Hops
+Failed QReq PID: 8686 Reason: TTL>Hops
+Failed Data PID: 8427 Reason: Waiting times > 7
+Failed Data PID: 8608 Reason: Waiting times > 7
+Failed Data PID: 8392 Reason: Waiting times > 7
+The thread 0x1ecc has exited with code 0 (0x0).
+The thread 0x5408 has exited with code 0 (0x0).
+Failed FM PID: 8917 Reason: Waiting times > 7
+The thread 0x4d18 has exited with code 0 (0x0).
+Failed Data PID: 8959 Reason: Waiting times > 7
+Failed QResp PID: 9000 Reason: Waiting times > 7
+Failed Data PID: 9051 Reason: Waiting times > 7
+Failed QReq PID: 9012 Reason: Waiting times > 7
+Failed Data PID: 9020 Reason: Waiting times > 7
+The thread 0x37f0 has exited with code 0 (0x0).
+Failed QReq PID: 9024 Reason: TTL>Hops
+Failed Data PID: 9009 Reason: Waiting times > 7
+Failed QReq PID: 9037 Reason: TTL>Hops
+Failed Data PID: 9069 Reason: Waiting times > 7
+Failed Data PID: 9055 Reason: Waiting times > 7
+Failed Data PID: 9096 Reason: Waiting times > 7
+The thread 0x4f40 has exited with code 0 (0x0).
+Failed Data PID: 9132 Reason: Waiting times > 7
+Failed Data PID: 8946 Reason: Waiting times > 7
+Failed QReq PID: 9235 Reason: TTL>Hops
+Failed QReq PID: 9255 Reason: TTL>Hops
+Failed Data PID: 9278 Reason: Waiting times > 7
+The thread 0x3fec has exited with code 0 (0x0).
+Failed Data PID: 9101 Reason: Waiting times > 7
+Failed Data PID: 9210 Reason: Waiting times > 7
+Failed QReq PID: 9214 Reason: Waiting times > 7
+Failed Data PID: 8468 Reason: Waiting times > 7
+Failed Data PID: 9283 Reason: Waiting times > 7
+Failed Data PID: 8955 Reason: Waiting times > 7
+Failed QReq PID: 9305 Reason: Waiting times > 7
+Failed FSA PID: 9402 Reason: Waiting times > 7
+The thread 0x20a0 has exited with code 0 (0x0).
+Failed QReq PID: 9291 Reason: TTL>Hops
+Failed Data PID: 9225 Reason: Waiting times > 7
+Failed QReq PID: 9282 Reason: TTL>Hops
+Failed Data PID: 9409 Reason: Waiting times > 7
+Failed Data PID: 9223 Reason: Waiting times > 7
+Failed Data PID: 9200 Reason: Waiting times > 7
+Failed Data PID: 9440 Reason: Waiting times > 7
+Failed QReq PID: 9442 Reason: Waiting times > 7
+The thread 0x4fc8 has exited with code 0 (0x0).
+Failed Data PID: 9535 Reason: Waiting times > 7
+Failed Data PID: 9412 Reason: Waiting times > 7
+Failed Data PID: 9299 Reason: Waiting times > 7
+Failed Data PID: 9441 Reason: Waiting times > 7
+Failed Data PID: 9328 Reason: Waiting times > 7
+Failed Data PID: 9414 Reason: Waiting times > 7
+The thread 0x4338 has exited with code 0 (0x0).
+Failed QReq PID: 9647 Reason: Waiting times > 7
+Failed QReq PID: 9693 Reason: Waiting times > 7
+The thread 0x5b74 has exited with code 0 (0x0).
+Failed QResp PID: 9696 Reason: Waiting times > 7
+The thread 0x4d94 has exited with code 0 (0x0).
+Failed Data PID: 9644 Reason: Waiting times > 7
+Failed QReq PID: 9802 Reason: TTL>Hops
+Failed Data PID: 9728 Reason: Waiting times > 7
+Failed QReq PID: 9761 Reason: Waiting times > 7
+Failed Data PID: 9640 Reason: Waiting times > 7
+Failed Data PID: 9753 Reason: Waiting times > 7
+The thread 0x5c5c has exited with code 0 (0x0).
+Failed QResp PID: 9852 Reason: Waiting times > 7
+Failed Data PID: 9911 Reason: Waiting times > 7
+Failed QReq PID: 9804 Reason: Waiting times > 7
+Failed QReq PID: 9807 Reason: Waiting times > 7
+Failed QResp PID: 9873 Reason: Waiting times > 7
+The thread 0x4944 has exited with code 0 (0x0).
+Failed Data PID: 9943 Reason: Waiting times > 7
+Failed QReq PID: 9961 Reason: TTL>Hops
+Failed QReq PID: 9958 Reason: TTL>Hops
+The thread 0x3c18 has exited with code 0 (0x0).
+Failed Control PID: 10093 Reason: Waiting times > 7
+Failed Data PID: 9964 Reason: Waiting times > 7
+Failed QResp PID: 9977 Reason: Waiting times > 7
+Failed QReq PID: 9985 Reason: Waiting times > 7
+Failed Data PID: 9991 Reason: Waiting times > 7
+Failed Data PID: 9962 Reason: Waiting times > 7
+The thread 0x5e84 has exited with code 0 (0x0).
+Failed FM PID: 10091 Reason: Waiting times > 7
+Failed QReq PID: 10218 Reason: Waiting times > 7
+The thread 0x553c has exited with code 0 (0x0).
+Failed QReq PID: 10230 Reason: Waiting times > 7
+Failed Data PID: 9975 Reason: Waiting times > 7
+Failed Data PID: 10133 Reason: Waiting times > 7
+Failed QReq PID: 10253 Reason: Waiting times > 7
+Failed Data PID: 9979 Reason: Waiting times > 7
+Failed Data PID: 9921 Reason: Waiting times > 7
+Failed Data PID: 10240 Reason: Waiting times > 7
+The thread 0x5048 has exited with code 0 (0x0).
+Failed QReq PID: 10336 Reason: TTL>Hops
+Failed QReq PID: 10350 Reason: Waiting times > 7
+Failed QReq PID: 10370 Reason: TTL>Hops
+Failed Data PID: 10328 Reason: Waiting times > 7
+Failed Data PID: 10416 Reason: Waiting times > 7
+Failed QReq PID: 10385 Reason: Waiting times > 7
+The thread 0x1ac8 has exited with code 0 (0x0).
+The thread 0x4150 has exited with code 0 (0x0).
+Failed Data PID: 10581 Reason: Waiting times > 7
+The thread 0x444c has exited with code 0 (0x0).
+Failed Data PID: 10557 Reason: Waiting times > 7
+Failed Data PID: 10551 Reason: Waiting times > 7
+The thread 0x5938 has exited with code 0 (0x0).
+Failed Data PID: 10619 Reason: Waiting times > 7
+Failed QReq PID: 10748 Reason: Waiting times > 7
+Failed Data PID: 10754 Reason: Waiting times > 7
+Failed QReq PID: 10687 Reason: Waiting times > 7
+The thread 0x3498 has exited with code 0 (0x0).
+Failed QReq PID: 10736 Reason: Waiting times > 7
+Failed QResp PID: 10847 Reason: Waiting times > 7
+The thread 0x5e1c has exited with code 0 (0x0).
+Failed QReq PID: 10990 Reason: TTL>Hops
+Failed Data PID: 10751 Reason: Waiting times > 7
+Failed Data PID: 10862 Reason: Waiting times > 7
+Failed Data PID: 10839 Reason: Waiting times > 7
+Failed QReq PID: 11023 Reason: TTL>Hops
+The thread 0x268c has exited with code 0 (0x0).
+Failed Data PID: 10854 Reason: Waiting times > 7
+Failed QResp PID: 11050 Reason: Waiting times > 7
+Failed Data PID: 10991 Reason: Waiting times > 7
+Failed Data PID: 10865 Reason: Waiting times > 7
+The thread 0x1750 has exited with code 0 (0x0).
+Failed QReq PID: 11174 Reason: Waiting times > 7
+Failed QReq PID: 11207 Reason: TTL>Hops
+The thread 0x300c has exited with code 0 (0x0).
+Failed Data PID: 11235 Reason: Waiting times > 7
+The thread 0x369c has exited with code 0 (0x0).
+Failed QReq PID: 11378 Reason: Waiting times > 7
+The thread 0x42a8 has exited with code 0 (0x0).
+Failed FM PID: 11427 Reason: Waiting times > 7
+The thread 0x3560 has exited with code 0 (0x0).
+Failed Data PID: 11581 Reason: Waiting times > 7
+The thread 0x481c has exited with code 0 (0x0).
+Failed QReq PID: 11574 Reason: Waiting times > 7
+Failed QReq PID: 11618 Reason: Waiting times > 7
+Failed FM PID: 11659 Reason: Waiting times > 7
+The thread 0x3bd0 has exited with code 0 (0x0).
+Failed Data PID: 11737 Reason: Waiting times > 7
+The thread 0x37b4 has exited with code 0 (0x0).
+Failed Data PID: 11875 Reason: Waiting times > 7
+The thread 0x47bc has exited with code 0 (0x0).
+Failed QReq PID: 11909 Reason: TTL>Hops
+Failed QReq PID: 11890 Reason: TTL>Hops
+Failed QResp PID: 11898 Reason: Waiting times > 7
+Failed Data PID: 11857 Reason: Waiting times > 7
+Failed QReq PID: 11893 Reason: TTL>Hops
+Failed QReq PID: 11911 Reason: TTL>Hops
+The thread 0x43a4 has exited with code 0 (0x0).
+Failed QReq PID: 11958 Reason: Waiting times > 7
+Failed QReq PID: 11965 Reason: Waiting times > 7
+Failed QReq PID: 12004 Reason: Waiting times > 7
+The thread 0x5354 has exited with code 0 (0x0).
+Failed QReq PID: 12079 Reason: TTL>Hops
+Failed QReq PID: 12074 Reason: TTL>Hops
+Failed QReq PID: 12063 Reason: TTL>Hops
+Failed QReq PID: 12058 Reason: TTL>Hops
+The thread 0x550c has exited with code 0 (0x0).
+Failed QReq PID: 12187 Reason: TTL>Hops
+The thread 0x4d30 has exited with code 0 (0x0).
+Failed Data PID: 12240 Reason: Waiting times > 7
+Failed FSA PID: 12259 Reason: Waiting times > 7
+Failed Data PID: 12252 Reason: Waiting times > 7
+Failed QReq PID: 12265 Reason: Waiting times > 7
+Failed QReq PID: 12314 Reason: TTL>Hops
+The thread 0x3ce0 has exited with code 0 (0x0).
+Failed QReq PID: 12388 Reason: TTL>Hops
+Failed Data PID: 12379 Reason: Waiting times > 7
+The thread 0x5554 has exited with code 0 (0x0).
+Failed QReq PID: 12408 Reason: TTL>Hops
+Failed Data PID: 12364 Reason: Waiting times > 7
+Failed QReq PID: 12494 Reason: TTL>Hops
+Failed FSA PID: 12500 Reason: Waiting times > 7
+The thread 0x5518 has exited with code 0 (0x0).
+Failed Data PID: 12493 Reason: Waiting times > 7
+Failed QResp PID: 12589 Reason: Waiting times > 7
+Failed QReq PID: 12598 Reason: TTL>Hops
+The thread 0x3b00 has exited with code 0 (0x0).
+Failed FSA PID: 12612 Reason: Waiting times > 7
+The thread 0x26b8 has exited with code 0 (0x0).
+Failed QReq PID: 12657 Reason: Waiting times > 7
+The thread 0x2a34 has exited with code 0 (0x0).
+The thread 0x5088 has exited with code 0 (0x0).
+Failed QReq PID: 12865 Reason: TTL>Hops
+Failed QReq PID: 12899 Reason: Waiting times > 7
+The thread 0x5874 has exited with code 0 (0x0).
+Failed QReq PID: 12965 Reason: Waiting times > 7
+Failed Data PID: 13000 Reason: Waiting times > 7
+The thread 0x33b0 has exited with code 0 (0x0).
+Failed Data PID: 13030 Reason: Waiting times > 7
+The thread 0x3b24 has exited with code 0 (0x0).
+Failed Data PID: 13191 Reason: Waiting times > 7
+The thread 0x38d0 has exited with code 0 (0x0).
+The thread 0x5c04 has exited with code 0 (0x0).
+Failed Data PID: 13398 Reason: Waiting times > 7
+The thread 0x1edc has exited with code 0 (0x0).
+Failed Data PID: 13333 Reason: Waiting times > 7
+Failed Data PID: 13433 Reason: Waiting times > 7
+Failed QReq PID: 13465 Reason: Waiting times > 7
+The thread 0x35ac has exited with code 0 (0x0).
+Failed Data PID: 13578 Reason: Waiting times > 7
+Failed Data PID: 13535 Reason: Waiting times > 7
+The thread 0x4654 has exited with code 0 (0x0).
+Failed Data PID: 13647 Reason: Waiting times > 7
+The thread 0x4dfc has exited with code 0 (0x0).
+The thread 0x5820 has exited with code 0 (0x0).
+The thread 0x4c78 has exited with code 0 (0x0).
+The thread 0x3a68 has exited with code 0 (0x0).
+The thread 0x5488 has exited with code 0 (0x0).
